@@ -7,6 +7,8 @@
  Sendo assim sua maior utilidade será a de fornecer para as empresas uma análise de sentimento dos usuários sobre determinado assunto.
  
  O dataset foi extraído em tempo real do Reddit, a partir de sua API.
+ Para este modelos escolhemos os seguintes assuntos para análise: 'datascience', 'machinelearning', 'physics', 'astrology', 'conspiracy'.
+ Ao rodar o algoritmo vimos que o assunto mais falado naquele momento era "conspiracy", e o menos falado, 'physics'.
  
 
 
